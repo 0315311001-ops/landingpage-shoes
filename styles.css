@@ -7,6 +7,7 @@ body {
 .header {
     background-color: red;
     color: whitesmoke;
+
 }
 
 .header h2 {
@@ -15,10 +16,13 @@ body {
 
 .nav a {
     color: whitesmoke;
+    text-decoration: none;
+    border-bottom: 1px solid 
 }
 
 .hero {
-
+    height: 200px
+    background- color
 }
 
 .products {
